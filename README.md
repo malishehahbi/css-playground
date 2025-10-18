@@ -8,4 +8,4 @@ A collection of small CSS experiments and practice projects — built in public.
 - Keep track of my learning journey
 
 ## Live Demos
-Check out my CodePen for live experiments: [https://codepen.io/yourusername](https://codepen.io/yourusername)
+Check out my CodePen for live experiments: [https://codepen.io/yourusername](https://codepen.io/)
